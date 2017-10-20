@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="project" version="4">
+  <OBJECT>
+    <ID name="project" mc="Standard.Package" uid="02fef93b-797e-41b5-865a-67143e23742d"/>
+    <PID name="Project" mc="Standard.Project" uid="164404fd-92f6-4455-b4fc-30d1bb666a07"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[project]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="GasStationModule" mc="Standard.Class" uid="f6822189-5241-4abb-9795-ca6d07e03343"/>
+        <COMPID name="Server" mc="Standard.Class" uid="7f7f595b-67b2-41c4-b927-ebffffd2ad6a"/>
+        <COMPID name="GasType" mc="Standard.Class" uid="7f4a50f6-e3d5-46b5-a7f1-f133d587fc67"/>
+        <COMPID name="MobileAPI" mc="Standard.Class" uid="b01b50fa-672d-4675-a87a-5f5cdb53b39c"/>
+        <COMPID name="Console" mc="Standard.Class" uid="e7d07a69-87e7-45bf-9c67-48abd854484a"/>
+        <COMPID name="MobileApplication" mc="Standard.Class" uid="74a6ed9e-6d25-47d6-a482-eef9eb57bc41"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="FuelingIS" mc="Standard.ClassDiagram" uid="08fd2198-7f56-435a-aa5f-f09b1fed4785"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
