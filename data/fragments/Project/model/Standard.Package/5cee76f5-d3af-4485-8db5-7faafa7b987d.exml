@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="FuelIS" version="4">
+  <OBJECT>
+    <ID name="FuelIS" mc="Standard.Package" uid="5cee76f5-d3af-4485-8db5-7faafa7b987d"/>
+    <PID name="project" mc="Standard.Package" uid="02fef93b-797e-41b5-865a-67143e23742d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[FuelIS]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Server" mc="Standard.Class" uid="7f7f595b-67b2-41c4-b927-ebffffd2ad6a"/>
+        <COMPID name="StationInfo" mc="Standard.Class" uid="176fa2a0-33df-43cd-b8ce-c53b3540aa0b"/>
+        <COMPID name="GasStationModule" mc="Standard.Class" uid="f6822189-5241-4abb-9795-ca6d07e03343"/>
+        <COMPID name="MobileAPI" mc="Standard.Class" uid="b01b50fa-672d-4675-a87a-5f5cdb53b39c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

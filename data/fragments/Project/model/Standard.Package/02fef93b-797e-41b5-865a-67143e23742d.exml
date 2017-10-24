@@ -14,10 +14,7 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="GasStationModule" mc="Standard.Class" uid="f6822189-5241-4abb-9795-ca6d07e03343"/>
-        <COMPID name="Server" mc="Standard.Class" uid="7f7f595b-67b2-41c4-b927-ebffffd2ad6a"/>
         <COMPID name="GasType" mc="Standard.Class" uid="7f4a50f6-e3d5-46b5-a7f1-f133d587fc67"/>
-        <COMPID name="MobileAPI" mc="Standard.Class" uid="b01b50fa-672d-4675-a87a-5f5cdb53b39c"/>
         <COMPID name="Console" mc="Standard.Class" uid="e7d07a69-87e7-45bf-9c67-48abd854484a"/>
         <COMPID name="MobileApplication" mc="Standard.Class" uid="74a6ed9e-6d25-47d6-a482-eef9eb57bc41"/>
         <COMPID name="User" mc="Standard.Actor" uid="13061760-c5fc-4731-8e0d-38bd7b13ff56"/>
@@ -28,6 +25,16 @@
         <COMPID name="RunDiagnostics" mc="Standard.UseCase" uid="6e3c4175-b339-4ce1-9ada-69a1de510d8c"/>
         <COMPID name="Test fuel up" mc="Standard.UseCase" uid="dba1de33-fce0-4ad5-9ec5-7e897d2b10e3"/>
         <COMPID name="CheckJournal" mc="Standard.UseCase" uid="9aeb85c9-1ad2-44e8-9ee5-f8563ca8ea2a"/>
+        <COMPID name="Test" mc="Standard.Class" uid="7d3afdf1-a56a-4f06-8e32-4dd9bc5c56cd"/>
+        <COMPID name="Report" mc="Standard.Class" uid="b8913e25-a0c9-4d4b-86d2-6f537cebeee7"/>
+        <COMPID name="AuthCredentials" mc="Standard.Class" uid="2d138014-c3e4-4114-ab9f-da8d76bd1171"/>
+        <COMPID name="AuthProvider" mc="Standard.Class" uid="bffed200-636e-4ca1-964f-8df70a07abd6"/>
+        <COMPID name="PhysicalKey" mc="Standard.Class" uid="25c24640-5ba5-4c1e-92fe-bfafed8e1dcc"/>
+        <COMPID name="Password" mc="Standard.Class" uid="3a163645-d41b-4c59-ac45-9469f0f58e8d"/>
+        <COMPID name="PhysicalLock" mc="Standard.Class" uid="056e09b8-4cdd-43b9-a986-1998cb888da9"/>
+        <COMPID name="PasswordAuthentication" mc="Standard.Class" uid="7ca749da-8438-4721-aa3a-ae2f9841967f"/>
+        <COMPID name="Coordinates" mc="Standard.Class" uid="9486f44b-9886-45af-b6b8-7d2961977ee1"/>
+        <COMPID name="FuelIS" mc="Standard.Package" uid="5cee76f5-d3af-4485-8db5-7faafa7b987d"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="FuelingIS" mc="Standard.ClassDiagram" uid="08fd2198-7f56-435a-aa5f-f09b1fed4785"/>
