@@ -20,9 +20,19 @@
         <COMPID name="MobileAPI" mc="Standard.Class" uid="b01b50fa-672d-4675-a87a-5f5cdb53b39c"/>
         <COMPID name="Console" mc="Standard.Class" uid="e7d07a69-87e7-45bf-9c67-48abd854484a"/>
         <COMPID name="MobileApplication" mc="Standard.Class" uid="74a6ed9e-6d25-47d6-a482-eef9eb57bc41"/>
+        <COMPID name="User" mc="Standard.Actor" uid="13061760-c5fc-4731-8e0d-38bd7b13ff56"/>
+        <COMPID name="Make an order" mc="Standard.UseCase" uid="41d9adb1-cb26-45fd-bdd3-de8e7694682a"/>
+        <COMPID name="Get information about gas" mc="Standard.UseCase" uid="c6b5d02d-a869-480e-b5d4-b12457bc2d68"/>
+        <COMPID name="Fuel up a car" mc="Standard.UseCase" uid="6c25ee88-9124-4b0b-bb48-e15e6c5bfd6d"/>
+        <COMPID name="Engineer" mc="Standard.Actor" uid="03c83770-83b6-41d6-afeb-a939c4e4870e"/>
+        <COMPID name="RunDiagnostics" mc="Standard.UseCase" uid="6e3c4175-b339-4ce1-9ada-69a1de510d8c"/>
+        <COMPID name="Test fuel up" mc="Standard.UseCase" uid="dba1de33-fce0-4ad5-9ec5-7e897d2b10e3"/>
+        <COMPID name="CheckJournal" mc="Standard.UseCase" uid="9aeb85c9-1ad2-44e8-9ee5-f8563ca8ea2a"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="FuelingIS" mc="Standard.ClassDiagram" uid="08fd2198-7f56-435a-aa5f-f09b1fed4785"/>
+        <COMPID name="User" mc="Standard.UseCaseDiagram" uid="8f594a04-c9be-423b-a035-a3d496536ba3"/>
+        <COMPID name="Engineer" mc="Standard.UseCaseDiagram" uid="8eab4852-8c25-43b0-83a7-dc45bba6aa7c"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
