@@ -35,6 +35,7 @@
         <COMPID name="PasswordAuthentication" mc="Standard.Class" uid="7ca749da-8438-4721-aa3a-ae2f9841967f"/>
         <COMPID name="Coordinates" mc="Standard.Class" uid="9486f44b-9886-45af-b6b8-7d2961977ee1"/>
         <COMPID name="FuelIS" mc="Standard.Package" uid="5cee76f5-d3af-4485-8db5-7faafa7b987d"/>
+        <COMPID name="Find near stations" mc="Standard.UseCase" uid="529242d9-431e-4620-b55c-2df7227070fb"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="FuelingIS" mc="Standard.ClassDiagram" uid="08fd2198-7f56-435a-aa5f-f09b1fed4785"/>
