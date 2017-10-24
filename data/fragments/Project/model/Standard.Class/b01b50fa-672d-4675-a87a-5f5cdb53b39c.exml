@@ -92,7 +92,7 @@
                 </ATTRIBUTES>
                 <DEPENDENCIES>
                   <LINK relation="Type">
-                    <ID name="GasStationModule" mc="Standard.Class" uid="f6822189-5241-4abb-9795-ca6d07e03343"/>
+                    <ID name="StationInfo" mc="Standard.Class" uid="176fa2a0-33df-43cd-b8ce-c53b3540aa0b"/>
                   </LINK>
                 </DEPENDENCIES>
               </OBJECT>
